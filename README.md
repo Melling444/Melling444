@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚒️ I'm currently working on personal projects in ML and looking for positions in Data Science.<br>🏫 I am self-taught and always looking to improve! I have a background in academia.<br>⚡When I’m not working, I enjoy gaming, sewing, and traditional archery.<br>
+⚒️ I'm currently working on personal projects in ML and actively looking for positions in Data Science.<br>🤝Open to collaborating on Data Analytics/Science projects.<br>🏫 I am self-taught and always looking to improve! I have a background in academia.<br>⚡When I’m not working, I enjoy gaming, sewing, and traditional archery.<br>
 
 
 ## 🌐 Socials:
